@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c03e63da5ab9fcf4c97683ee975ee52e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Superspace Light Slant
+  fontNames:
+  - Superspace Light Slant
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a7e14ad5327188341ae4eaf4e3bc7aa5, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: 54f90677430881940bb5c87169a9f6df
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Base
+    100002: Bullet
+    100004: BulletLoad
+    100006: //RootNode
+    100008: InCore
+    100010: L1
+    100012: L2
+    100014: Rod1
+    100016: Rod2
+    100018: Rod3
+    100020: Rod4
+    100022: Rod5
+    100024: Rod6
+    100026: Rod7
+    100028: Rod8
+    100030: Rod9
+    100032: Spinner1
+    100034: Spinner2
+    400000: Base
+    400002: Bullet
+    400004: BulletLoad
+    400006: //RootNode
+    400008: InCore
+    400010: L1
+    400012: L2
+    400014: Rod1
+    400016: Rod2
+    400018: Rod3
+    400020: Rod4
+    400022: Rod5
+    400024: Rod6
+    400026: Rod7
+    400028: Rod8
+    400030: Rod9
+    400032: Spinner1
+    400034: Spinner2
+    2100000: lambert1
+    2100002: lambert2
+    2300000: Base
+    2300002: Bullet
+    2300004: BulletLoad
+    2300006: InCore
+    2300008: L1
+    2300010: L2
+    2300012: Rod1
+    2300014: Rod2
+    2300016: Rod3
+    2300018: Rod4
+    2300020: Rod5
+    2300022: Rod6
+    2300024: Rod7
+    2300026: Rod8
+    2300028: Rod9
+    2300030: Spinner1
+    2300032: Spinner2
+    3300000: Base
+    3300002: Bullet
+    3300004: BulletLoad
+    3300006: InCore
+    3300008: L1
+    3300010: L2
+    3300012: Rod1
+    3300014: Rod2
+    3300016: Rod3
+    3300018: Rod4
+    3300020: Rod5
+    3300022: Rod6
+    3300024: Rod7
+    3300026: Rod8
+    3300028: Rod9
+    3300030: Spinner1
+    3300032: Spinner2
+    4300000: Spinner2
+    4300002: Spinner1
+    4300004: InCore
+    4300006: Rod1
+    4300008: Rod2
+    4300010: Rod3
+    4300012: Rod4
+    4300014: Rod5
+    4300016: Rod6
+    4300018: Rod7
+    4300020: Rod8
+    4300022: Rod9
+    4300024: Base
+    4300026: L1
+    4300028: Bullet
+    4300030: L2
+    4300032: BulletLoad
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 16
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

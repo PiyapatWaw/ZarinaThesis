@@ -1,0 +1,233 @@
+fileFormatVersion: 2
+guid: f0c70910c5498be469f5f6c9a4d2098b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BackLight
+    100002: Black
+    100004: Body
+    100006: Foot
+    100008: Foot 1
+    100010: GlassLight
+    100012: L_Ankle_Ctrl
+    100014: L_Ankle_Jnt
+    100016: L_BBody_Ctrl
+    100018: L_BBody_Jnt
+    100020: L_CUnder_Jnt
+    100022: L_CUper_Ctrl
+    100024: L_CUper_jnt
+    100026: L_Foot_Ctrl
+    100028: L_Foot_Jnt
+    100030: LegL
+    100032: LegR
+    100034: nurbsCircle1
+    100036: Pipe
+    100038: Pipe 1
+    100040: Pipe2
+    100042: Pipe2 1
+    100044: R_Ankle_Ctrl
+    100046: R_Ankle_Jnt
+    100048: R_BBody_Ctrl
+    100050: R_BBody_Jnt
+    100052: R_CUnder_Ctrl
+    100054: R_CUnder_Jnt
+    100056: R_CUper_jnt
+    100058: R_Foot_Ctrl
+    100060: R_Foot_Jnt
+    100062: Root
+    100064: Root_Ctrl
+    100066: Screw
+    100068: Screw 1
+    100070: Screw2
+    100072: Screw2 1
+    100074: Screw3
+    100076: Screw3 1
+    100078: Titan
+    100080: //RootNode
+    400000: BackLight
+    400002: Black
+    400004: Body
+    400006: Foot
+    400008: Foot 1
+    400010: GlassLight
+    400012: L_Ankle_Ctrl
+    400014: L_Ankle_Jnt
+    400016: L_BBody_Ctrl
+    400018: L_BBody_Jnt
+    400020: L_CUnder_Jnt
+    400022: L_CUper_Ctrl
+    400024: L_CUper_jnt
+    400026: L_Foot_Ctrl
+    400028: L_Foot_Jnt
+    400030: LegL
+    400032: LegR
+    400034: nurbsCircle1
+    400036: Pipe
+    400038: Pipe 1
+    400040: Pipe2
+    400042: Pipe2 1
+    400044: R_Ankle_Ctrl
+    400046: R_Ankle_Jnt
+    400048: R_BBody_Ctrl
+    400050: R_BBody_Jnt
+    400052: R_CUnder_Ctrl
+    400054: R_CUnder_Jnt
+    400056: R_CUper_jnt
+    400058: R_Foot_Ctrl
+    400060: R_Foot_Jnt
+    400062: Root
+    400064: Root_Ctrl
+    400066: Screw
+    400068: Screw 1
+    400070: Screw2
+    400072: Screw2 1
+    400074: Screw3
+    400076: Screw3 1
+    400078: Titan
+    400080: //RootNode
+    2100000: lambert2
+    2100002: lambert1
+    4300000: Body
+    4300002: GlassLight
+    4300004: BackLight
+    4300006: Black
+    4300008: Foot
+    4300010: Screw2
+    4300012: Pipe
+    4300014: Screw3
+    4300016: Pipe2
+    4300018: Screw
+    4300020: Foot
+    4300022: Screw2
+    4300024: Pipe
+    4300026: Screw3
+    4300028: Pipe2
+    4300030: Screw
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: BackLight
+    13700002: Black
+    13700004: Body
+    13700006: Foot
+    13700008: Foot 1
+    13700010: GlassLight
+    13700012: Pipe
+    13700014: Pipe 1
+    13700016: Pipe2
+    13700018: Pipe2 1
+    13700020: Screw
+    13700022: Screw 1
+    13700024: Screw2
+    13700026: Screw2 1
+    13700028: Screw3
+    13700030: Screw3 1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

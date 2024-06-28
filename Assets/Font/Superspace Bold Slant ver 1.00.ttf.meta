@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: af83fe6e141938f44bcfbb7306ee22cc
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Superspace Bold Slant
+  fontNames:
+  - Superspace Bold Slant
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a32751d6bf88b4a45ba343d05ee78804, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

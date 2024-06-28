@@ -1,0 +1,1750 @@
+fileFormatVersion: 2
+guid: a8e755448ffa73443852278e147907a1
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ambientLight1
+    100002: Battery1
+    100004: Battery10
+    100006: Battery11
+    100008: Battery12
+    100010: Battery13
+    100012: Battery14
+    100014: Battery15
+    100016: Battery16
+    100018: Battery17
+    100020: Battery18
+    100022: Battery19
+    100024: Battery2
+    100026: Battery20
+    100028: Battery21
+    100030: Battery22
+    100032: Battery23
+    100034: Battery24
+    100036: Battery3
+    100038: Battery4
+    100040: Battery5
+    100042: Battery6
+    100044: Battery7
+    100046: Battery8
+    100048: Battery9
+    100050: Battery:Battery
+    100052: BatteryAll
+    100054: BlockAll
+    100056: Building1:Building1
+    100058: Building1:pCube5
+    100060: Building1:pCube6
+    100062: Building1:pCube7
+    100064: Building1:pCube8
+    100066: Building2:Building2
+    100068: Building2:pCube10
+    100070: Building2:pCube11
+    100072: Building2:pCube12
+    100074: Building2:pCube13
+    100076: Building2:pCube14
+    100078: Building2:pCube15
+    100080: Building2:pCube9
+    100082: Building3
+    100084: Building4
+    100086: Building5
+    100088: Building6
+    100090: BuildingAll
+    100092: CammandCenter
+    100094: CammandCenter1
+    100096: CammandCenter2
+    100098: CommandCenter:CammandCenter_Target
+    100100: CommandCenter:pCube34
+    100102: CommandCenter:pCube39
+    100104: CommandCenter:pCube40
+    100106: CommandCenter:pCube41
+    100108: CommandCenter:pCube42
+    100110: CommandCenter:pCube43
+    100112: CommandCenter:pCube44
+    100114: CommandCenter:pCube45
+    100116: CommandCenter:pCube46
+    100118: CommandCenter:pCube47
+    100120: CommandCenter:pCube48
+    100122: CommandCenter:pCube49
+    100124: CommandCenter:pCube50
+    100126: CommandCenter:pCube51
+    100128: CommandCenter:pCube52
+    100130: CommandCenter:pCube53
+    100132: CommandCenter:pCube54
+    100134: CommandCenter:pCube55
+    100136: CommandCenter:pCube56
+    100138: CommandCenter:pCube57
+    100140: CommandCenter:pCube58
+    100142: CommandCenter:pCube59
+    100144: CommandCenter:pCube60
+    100146: CommandCenter:pCube61
+    100148: CommandCenter:pCube62
+    100150: CommandCenter:pCube63
+    100152: CommandCenter:pCube64
+    100154: CommandCenter:pCube65
+    100156: CommandCenter:pCube66
+    100158: CommandCenter:pCube67
+    100160: CommandCenter:pCube68
+    100162: CommandCenter:pCube70
+    100164: CommandCenter:pCube71
+    100166: CommandCenter:pCylinder1
+    100168: Communication_Building
+    100170: CommunicationCenter:Communication_Building
+    100172: CommunicationCenter:pCube25
+    100174: CommunicationCenter:pCube26
+    100176: CommunicationCenter:pCube27
+    100178: CommunicationCenter:pCube28
+    100180: CommunicationCenter:pCube29
+    100182: CommunicationCenter:pCube30
+    100184: CommunicationCenter:pCube31
+    100186: CommunicationCenter:pCube32
+    100188: CommunicationCenter:pCube33
+    100190: directionalLight1
+    100192: Dorminitory
+    100194: Ground
+    100196: group1
+    100198: Lamp
+    100200: LightGround
+    100202: MainBuilding:MainBuilding
+    100204: MainBuilding:pCube16
+    100206: MainBuilding:pCube17
+    100208: MainBuilding:pCube18
+    100210: MainBuilding:pCube19
+    100212: pCube1
+    100214: pCube1 1
+    100216: pCube10
+    100218: pCube10 1
+    100220: pCube10 2
+    100222: pCube10 3
+    100224: pCube11
+    100226: pCube11 1
+    100228: pCube11 2
+    100230: pCube11 3
+    100232: pCube12
+    100234: pCube12 1
+    100236: pCube12 2
+    100238: pCube12 3
+    100240: pCube13
+    100242: pCube13 1
+    100244: pCube14
+    100246: pCube14 1
+    100248: pCube15
+    100250: pCube15 1
+    100252: pCube16
+    100254: pCube17
+    100256: pCube18
+    100258: pCube19
+    100260: pCube2
+    100262: pCube2 1
+    100264: pCube20
+    100266: pCube20 1
+    100268: pCube20 2
+    100270: pCube20 3
+    100272: pCube20 4
+    100274: pCube20 5
+    100276: pCube21
+    100278: pCube21 1
+    100280: pCube21 2
+    100282: pCube21 3
+    100284: pCube21 4
+    100286: pCube21 5
+    100288: pCube22
+    100290: pCube22 1
+    100292: pCube22 2
+    100294: pCube22 3
+    100296: pCube22 4
+    100298: pCube22 5
+    100300: pCube23
+    100302: pCube23 1
+    100304: pCube23 2
+    100306: pCube23 3
+    100308: pCube23 4
+    100310: pCube23 5
+    100312: pCube24
+    100314: pCube24 1
+    100316: pCube24 2
+    100318: pCube24 3
+    100320: pCube24 4
+    100322: pCube24 5
+    100324: pCube25
+    100326: pCube26
+    100328: pCube27
+    100330: pCube28
+    100332: pCube29
+    100334: pCube3
+    100336: pCube3 1
+    100338: pCube30
+    100340: pCube31
+    100342: pCube32
+    100344: pCube33
+    100346: pCube34
+    100348: pCube34 1
+    100350: pCube34 2
+    100352: pCube35
+    100354: pCube35 1
+    100356: pCube35 2
+    100358: pCube36
+    100360: pCube36 1
+    100362: pCube36 2
+    100364: pCube37
+    100366: pCube37 1
+    100368: pCube37 2
+    100370: pCube38
+    100372: pCube38 1
+    100374: pCube38 2
+    100376: pCube4
+    100378: pCube4 1
+    100380: pCube40
+    100382: pCube40 1
+    100384: pCube40 2
+    100386: pCube41
+    100388: pCube41 1
+    100390: pCube41 2
+    100392: pCube42
+    100394: pCube42 1
+    100396: pCube42 2
+    100398: pCube43
+    100400: pCube43 1
+    100402: pCube43 2
+    100404: pCube44
+    100406: pCube44 1
+    100408: pCube44 2
+    100410: pCube45
+    100412: pCube45 1
+    100414: pCube45 2
+    100416: pCube46
+    100418: pCube46 1
+    100420: pCube46 2
+    100422: pCube47
+    100424: pCube47 1
+    100426: pCube47 2
+    100428: pCube48
+    100430: pCube48 1
+    100432: pCube48 2
+    100434: pCube49
+    100436: pCube49 1
+    100438: pCube49 2
+    100440: pCube5
+    100442: pCube5 1
+    100444: pCube5 2
+    100446: pCube5 3
+    100448: pCube50
+    100450: pCube50 1
+    100452: pCube50 2
+    100454: pCube51
+    100456: pCube51 1
+    100458: pCube51 2
+    100460: pCube52
+    100462: pCube52 1
+    100464: pCube52 2
+    100466: pCube53
+    100468: pCube53 1
+    100470: pCube53 2
+    100472: pCube54
+    100474: pCube54 1
+    100476: pCube54 2
+    100478: pCube55
+    100480: pCube55 1
+    100482: pCube55 2
+    100484: pCube56
+    100486: pCube56 1
+    100488: pCube56 2
+    100490: pCube57
+    100492: pCube57 1
+    100494: pCube57 2
+    100496: pCube58
+    100498: pCube58 1
+    100500: pCube58 2
+    100502: pCube59
+    100504: pCube59 1
+    100506: pCube59 2
+    100508: pCube6
+    100510: pCube6 1
+    100512: pCube6 2
+    100514: pCube6 3
+    100516: pCube60
+    100518: pCube60 1
+    100520: pCube60 2
+    100522: pCube61
+    100524: pCube61 1
+    100526: pCube61 2
+    100528: pCube62
+    100530: pCube62 1
+    100532: pCube62 2
+    100534: pCube63
+    100536: pCube63 1
+    100538: pCube63 2
+    100540: pCube64
+    100542: pCube64 1
+    100544: pCube64 2
+    100546: pCube65
+    100548: pCube65 1
+    100550: pCube65 2
+    100552: pCube66
+    100554: pCube66 1
+    100556: pCube66 2
+    100558: pCube67
+    100560: pCube67 1
+    100562: pCube67 2
+    100564: pCube7
+    100566: pCube7 1
+    100568: pCube7 2
+    100570: pCube7 3
+    100572: pCube70
+    100574: pCube70 1
+    100576: pCube70 2
+    100578: pCube71
+    100580: pCube71 1
+    100582: pCube71 2
+    100584: pCube76
+    100586: pCube77
+    100588: pCube78
+    100590: pCube79
+    100592: pCube8
+    100594: pCube8 1
+    100596: pCube8 2
+    100598: pCube8 3
+    100600: pCube81
+    100602: pCube81 1
+    100604: pCube81 2
+    100606: pCube82
+    100608: pCube83
+    100610: pCube84
+    100612: pCube85
+    100614: pCube86
+    100616: pCube87
+    100618: pCube88
+    100620: pCube9
+    100622: pCube9 1
+    100624: pCube9 2
+    100626: pCube9 3
+    100628: persp1
+    100630: PowerBase1
+    100632: PowerBase2
+    100634: PowerBase:pCube1
+    100636: PowerBase:pCube10
+    100638: PowerBase:pCube11
+    100640: PowerBase:pCube12
+    100642: PowerBase:pCube2
+    100644: PowerBase:pCube3
+    100646: PowerBase:pCube4
+    100648: PowerBase:pCube5
+    100650: PowerBase:pCube6
+    100652: PowerBase:pCube7
+    100654: PowerBase:pCube8
+    100656: PowerBase:pCube9
+    100658: PowerBase:PowerBase
+    100660: PowerBase:Radar:pCube20
+    100662: PowerBase:Radar:pCube21
+    100664: PowerBase:Radar:pCube22
+    100666: PowerBase:Radar:pCube23
+    100668: PowerBase:Radar:pCube24
+    100670: PowerBaseAll
+    100672: Radar1
+    100674: Radar2
+    100676: Radar3
+    100678: Radar4
+    100680: Radar:pCube20
+    100682: Radar:pCube21
+    100684: Radar:pCube22
+    100686: Radar:pCube23
+    100688: Radar:pCube24
+    100690: Radar:Radar
+    100692: RadarAll
+    100694: //RootNode
+    100696: SmallProp1
+    100698: SmallProp2
+    100700: Tower
+    100702: TowerAll
+    400000: ambientLight1
+    400002: Battery1
+    400004: Battery10
+    400006: Battery11
+    400008: Battery12
+    400010: Battery13
+    400012: Battery14
+    400014: Battery15
+    400016: Battery16
+    400018: Battery17
+    400020: Battery18
+    400022: Battery19
+    400024: Battery2
+    400026: Battery20
+    400028: Battery21
+    400030: Battery22
+    400032: Battery23
+    400034: Battery24
+    400036: Battery3
+    400038: Battery4
+    400040: Battery5
+    400042: Battery6
+    400044: Battery7
+    400046: Battery8
+    400048: Battery9
+    400050: Battery:Battery
+    400052: BatteryAll
+    400054: BlockAll
+    400056: Building1:Building1
+    400058: Building1:pCube5
+    400060: Building1:pCube6
+    400062: Building1:pCube7
+    400064: Building1:pCube8
+    400066: Building2:Building2
+    400068: Building2:pCube10
+    400070: Building2:pCube11
+    400072: Building2:pCube12
+    400074: Building2:pCube13
+    400076: Building2:pCube14
+    400078: Building2:pCube15
+    400080: Building2:pCube9
+    400082: Building3
+    400084: Building4
+    400086: Building5
+    400088: Building6
+    400090: BuildingAll
+    400092: CammandCenter
+    400094: CammandCenter1
+    400096: CammandCenter2
+    400098: CommandCenter:CammandCenter_Target
+    400100: CommandCenter:pCube34
+    400102: CommandCenter:pCube39
+    400104: CommandCenter:pCube40
+    400106: CommandCenter:pCube41
+    400108: CommandCenter:pCube42
+    400110: CommandCenter:pCube43
+    400112: CommandCenter:pCube44
+    400114: CommandCenter:pCube45
+    400116: CommandCenter:pCube46
+    400118: CommandCenter:pCube47
+    400120: CommandCenter:pCube48
+    400122: CommandCenter:pCube49
+    400124: CommandCenter:pCube50
+    400126: CommandCenter:pCube51
+    400128: CommandCenter:pCube52
+    400130: CommandCenter:pCube53
+    400132: CommandCenter:pCube54
+    400134: CommandCenter:pCube55
+    400136: CommandCenter:pCube56
+    400138: CommandCenter:pCube57
+    400140: CommandCenter:pCube58
+    400142: CommandCenter:pCube59
+    400144: CommandCenter:pCube60
+    400146: CommandCenter:pCube61
+    400148: CommandCenter:pCube62
+    400150: CommandCenter:pCube63
+    400152: CommandCenter:pCube64
+    400154: CommandCenter:pCube65
+    400156: CommandCenter:pCube66
+    400158: CommandCenter:pCube67
+    400160: CommandCenter:pCube68
+    400162: CommandCenter:pCube70
+    400164: CommandCenter:pCube71
+    400166: CommandCenter:pCylinder1
+    400168: Communication_Building
+    400170: CommunicationCenter:Communication_Building
+    400172: CommunicationCenter:pCube25
+    400174: CommunicationCenter:pCube26
+    400176: CommunicationCenter:pCube27
+    400178: CommunicationCenter:pCube28
+    400180: CommunicationCenter:pCube29
+    400182: CommunicationCenter:pCube30
+    400184: CommunicationCenter:pCube31
+    400186: CommunicationCenter:pCube32
+    400188: CommunicationCenter:pCube33
+    400190: directionalLight1
+    400192: Dorminitory
+    400194: Ground
+    400196: group1
+    400198: Lamp
+    400200: LightGround
+    400202: MainBuilding:MainBuilding
+    400204: MainBuilding:pCube16
+    400206: MainBuilding:pCube17
+    400208: MainBuilding:pCube18
+    400210: MainBuilding:pCube19
+    400212: pCube1
+    400214: pCube1 1
+    400216: pCube10
+    400218: pCube10 1
+    400220: pCube10 2
+    400222: pCube10 3
+    400224: pCube11
+    400226: pCube11 1
+    400228: pCube11 2
+    400230: pCube11 3
+    400232: pCube12
+    400234: pCube12 1
+    400236: pCube12 2
+    400238: pCube12 3
+    400240: pCube13
+    400242: pCube13 1
+    400244: pCube14
+    400246: pCube14 1
+    400248: pCube15
+    400250: pCube15 1
+    400252: pCube16
+    400254: pCube17
+    400256: pCube18
+    400258: pCube19
+    400260: pCube2
+    400262: pCube2 1
+    400264: pCube20
+    400266: pCube20 1
+    400268: pCube20 2
+    400270: pCube20 3
+    400272: pCube20 4
+    400274: pCube20 5
+    400276: pCube21
+    400278: pCube21 1
+    400280: pCube21 2
+    400282: pCube21 3
+    400284: pCube21 4
+    400286: pCube21 5
+    400288: pCube22
+    400290: pCube22 1
+    400292: pCube22 2
+    400294: pCube22 3
+    400296: pCube22 4
+    400298: pCube22 5
+    400300: pCube23
+    400302: pCube23 1
+    400304: pCube23 2
+    400306: pCube23 3
+    400308: pCube23 4
+    400310: pCube23 5
+    400312: pCube24
+    400314: pCube24 1
+    400316: pCube24 2
+    400318: pCube24 3
+    400320: pCube24 4
+    400322: pCube24 5
+    400324: pCube25
+    400326: pCube26
+    400328: pCube27
+    400330: pCube28
+    400332: pCube29
+    400334: pCube3
+    400336: pCube3 1
+    400338: pCube30
+    400340: pCube31
+    400342: pCube32
+    400344: pCube33
+    400346: pCube34
+    400348: pCube34 1
+    400350: pCube34 2
+    400352: pCube35
+    400354: pCube35 1
+    400356: pCube35 2
+    400358: pCube36
+    400360: pCube36 1
+    400362: pCube36 2
+    400364: pCube37
+    400366: pCube37 1
+    400368: pCube37 2
+    400370: pCube38
+    400372: pCube38 1
+    400374: pCube38 2
+    400376: pCube4
+    400378: pCube4 1
+    400380: pCube40
+    400382: pCube40 1
+    400384: pCube40 2
+    400386: pCube41
+    400388: pCube41 1
+    400390: pCube41 2
+    400392: pCube42
+    400394: pCube42 1
+    400396: pCube42 2
+    400398: pCube43
+    400400: pCube43 1
+    400402: pCube43 2
+    400404: pCube44
+    400406: pCube44 1
+    400408: pCube44 2
+    400410: pCube45
+    400412: pCube45 1
+    400414: pCube45 2
+    400416: pCube46
+    400418: pCube46 1
+    400420: pCube46 2
+    400422: pCube47
+    400424: pCube47 1
+    400426: pCube47 2
+    400428: pCube48
+    400430: pCube48 1
+    400432: pCube48 2
+    400434: pCube49
+    400436: pCube49 1
+    400438: pCube49 2
+    400440: pCube5
+    400442: pCube5 1
+    400444: pCube5 2
+    400446: pCube5 3
+    400448: pCube50
+    400450: pCube50 1
+    400452: pCube50 2
+    400454: pCube51
+    400456: pCube51 1
+    400458: pCube51 2
+    400460: pCube52
+    400462: pCube52 1
+    400464: pCube52 2
+    400466: pCube53
+    400468: pCube53 1
+    400470: pCube53 2
+    400472: pCube54
+    400474: pCube54 1
+    400476: pCube54 2
+    400478: pCube55
+    400480: pCube55 1
+    400482: pCube55 2
+    400484: pCube56
+    400486: pCube56 1
+    400488: pCube56 2
+    400490: pCube57
+    400492: pCube57 1
+    400494: pCube57 2
+    400496: pCube58
+    400498: pCube58 1
+    400500: pCube58 2
+    400502: pCube59
+    400504: pCube59 1
+    400506: pCube59 2
+    400508: pCube6
+    400510: pCube6 1
+    400512: pCube6 2
+    400514: pCube6 3
+    400516: pCube60
+    400518: pCube60 1
+    400520: pCube60 2
+    400522: pCube61
+    400524: pCube61 1
+    400526: pCube61 2
+    400528: pCube62
+    400530: pCube62 1
+    400532: pCube62 2
+    400534: pCube63
+    400536: pCube63 1
+    400538: pCube63 2
+    400540: pCube64
+    400542: pCube64 1
+    400544: pCube64 2
+    400546: pCube65
+    400548: pCube65 1
+    400550: pCube65 2
+    400552: pCube66
+    400554: pCube66 1
+    400556: pCube66 2
+    400558: pCube67
+    400560: pCube67 1
+    400562: pCube67 2
+    400564: pCube7
+    400566: pCube7 1
+    400568: pCube7 2
+    400570: pCube7 3
+    400572: pCube70
+    400574: pCube70 1
+    400576: pCube70 2
+    400578: pCube71
+    400580: pCube71 1
+    400582: pCube71 2
+    400584: pCube76
+    400586: pCube77
+    400588: pCube78
+    400590: pCube79
+    400592: pCube8
+    400594: pCube8 1
+    400596: pCube8 2
+    400598: pCube8 3
+    400600: pCube81
+    400602: pCube81 1
+    400604: pCube81 2
+    400606: pCube82
+    400608: pCube83
+    400610: pCube84
+    400612: pCube85
+    400614: pCube86
+    400616: pCube87
+    400618: pCube88
+    400620: pCube9
+    400622: pCube9 1
+    400624: pCube9 2
+    400626: pCube9 3
+    400628: persp1
+    400630: PowerBase1
+    400632: PowerBase2
+    400634: PowerBase:pCube1
+    400636: PowerBase:pCube10
+    400638: PowerBase:pCube11
+    400640: PowerBase:pCube12
+    400642: PowerBase:pCube2
+    400644: PowerBase:pCube3
+    400646: PowerBase:pCube4
+    400648: PowerBase:pCube5
+    400650: PowerBase:pCube6
+    400652: PowerBase:pCube7
+    400654: PowerBase:pCube8
+    400656: PowerBase:pCube9
+    400658: PowerBase:PowerBase
+    400660: PowerBase:Radar:pCube20
+    400662: PowerBase:Radar:pCube21
+    400664: PowerBase:Radar:pCube22
+    400666: PowerBase:Radar:pCube23
+    400668: PowerBase:Radar:pCube24
+    400670: PowerBaseAll
+    400672: Radar1
+    400674: Radar2
+    400676: Radar3
+    400678: Radar4
+    400680: Radar:pCube20
+    400682: Radar:pCube21
+    400684: Radar:pCube22
+    400686: Radar:pCube23
+    400688: Radar:pCube24
+    400690: Radar:Radar
+    400692: RadarAll
+    400694: //RootNode
+    400696: SmallProp1
+    400698: SmallProp2
+    400700: Tower
+    400702: TowerAll
+    2000000: persp1
+    2100000: lambert1
+    2300000: Battery1
+    2300002: Battery10
+    2300004: Battery11
+    2300006: Battery12
+    2300008: Battery13
+    2300010: Battery14
+    2300012: Battery15
+    2300014: Battery16
+    2300016: Battery17
+    2300018: Battery18
+    2300020: Battery19
+    2300022: Battery2
+    2300024: Battery20
+    2300026: Battery21
+    2300028: Battery22
+    2300030: Battery23
+    2300032: Battery24
+    2300034: Battery3
+    2300036: Battery4
+    2300038: Battery5
+    2300040: Battery6
+    2300042: Battery7
+    2300044: Battery8
+    2300046: Battery9
+    2300048: Battery:Battery
+    2300050: Building1:pCube5
+    2300052: Building1:pCube6
+    2300054: Building1:pCube7
+    2300056: Building1:pCube8
+    2300058: Building2:pCube10
+    2300060: Building2:pCube11
+    2300062: Building2:pCube12
+    2300064: Building2:pCube13
+    2300066: Building2:pCube14
+    2300068: Building2:pCube15
+    2300070: Building2:pCube9
+    2300072: CommandCenter:pCube34
+    2300074: CommandCenter:pCube39
+    2300076: CommandCenter:pCube40
+    2300078: CommandCenter:pCube41
+    2300080: CommandCenter:pCube42
+    2300082: CommandCenter:pCube43
+    2300084: CommandCenter:pCube44
+    2300086: CommandCenter:pCube45
+    2300088: CommandCenter:pCube46
+    2300090: CommandCenter:pCube47
+    2300092: CommandCenter:pCube48
+    2300094: CommandCenter:pCube49
+    2300096: CommandCenter:pCube50
+    2300098: CommandCenter:pCube51
+    2300100: CommandCenter:pCube52
+    2300102: CommandCenter:pCube53
+    2300104: CommandCenter:pCube54
+    2300106: CommandCenter:pCube55
+    2300108: CommandCenter:pCube56
+    2300110: CommandCenter:pCube57
+    2300112: CommandCenter:pCube58
+    2300114: CommandCenter:pCube59
+    2300116: CommandCenter:pCube60
+    2300118: CommandCenter:pCube61
+    2300120: CommandCenter:pCube62
+    2300122: CommandCenter:pCube63
+    2300124: CommandCenter:pCube64
+    2300126: CommandCenter:pCube65
+    2300128: CommandCenter:pCube66
+    2300130: CommandCenter:pCube67
+    2300132: CommandCenter:pCube68
+    2300134: CommandCenter:pCube70
+    2300136: CommandCenter:pCube71
+    2300138: CommandCenter:pCylinder1
+    2300140: CommunicationCenter:pCube25
+    2300142: CommunicationCenter:pCube26
+    2300144: CommunicationCenter:pCube27
+    2300146: CommunicationCenter:pCube28
+    2300148: CommunicationCenter:pCube29
+    2300150: CommunicationCenter:pCube30
+    2300152: CommunicationCenter:pCube31
+    2300154: CommunicationCenter:pCube32
+    2300156: CommunicationCenter:pCube33
+    2300158: Ground
+    2300160: Lamp
+    2300162: LightGround
+    2300164: MainBuilding:pCube16
+    2300166: MainBuilding:pCube17
+    2300168: MainBuilding:pCube18
+    2300170: MainBuilding:pCube19
+    2300172: pCube1
+    2300174: pCube1 1
+    2300176: pCube10
+    2300178: pCube10 1
+    2300180: pCube10 2
+    2300182: pCube10 3
+    2300184: pCube11
+    2300186: pCube11 1
+    2300188: pCube11 2
+    2300190: pCube11 3
+    2300192: pCube12
+    2300194: pCube12 1
+    2300196: pCube12 2
+    2300198: pCube12 3
+    2300200: pCube13
+    2300202: pCube13 1
+    2300204: pCube14
+    2300206: pCube14 1
+    2300208: pCube15
+    2300210: pCube15 1
+    2300212: pCube16
+    2300214: pCube17
+    2300216: pCube18
+    2300218: pCube19
+    2300220: pCube2
+    2300222: pCube2 1
+    2300224: pCube20
+    2300226: pCube20 1
+    2300228: pCube20 2
+    2300230: pCube20 3
+    2300232: pCube20 4
+    2300234: pCube20 5
+    2300236: pCube21
+    2300238: pCube21 1
+    2300240: pCube21 2
+    2300242: pCube21 3
+    2300244: pCube21 4
+    2300246: pCube21 5
+    2300248: pCube22
+    2300250: pCube22 1
+    2300252: pCube22 2
+    2300254: pCube22 3
+    2300256: pCube22 4
+    2300258: pCube22 5
+    2300260: pCube23
+    2300262: pCube23 1
+    2300264: pCube23 2
+    2300266: pCube23 3
+    2300268: pCube23 4
+    2300270: pCube23 5
+    2300272: pCube24
+    2300274: pCube24 1
+    2300276: pCube24 2
+    2300278: pCube24 3
+    2300280: pCube24 4
+    2300282: pCube24 5
+    2300284: pCube25
+    2300286: pCube26
+    2300288: pCube27
+    2300290: pCube28
+    2300292: pCube29
+    2300294: pCube3
+    2300296: pCube3 1
+    2300298: pCube30
+    2300300: pCube31
+    2300302: pCube32
+    2300304: pCube33
+    2300306: pCube34
+    2300308: pCube34 1
+    2300310: pCube34 2
+    2300312: pCube35
+    2300314: pCube35 1
+    2300316: pCube35 2
+    2300318: pCube36
+    2300320: pCube36 1
+    2300322: pCube36 2
+    2300324: pCube37
+    2300326: pCube37 1
+    2300328: pCube37 2
+    2300330: pCube38
+    2300332: pCube38 1
+    2300334: pCube38 2
+    2300336: pCube4
+    2300338: pCube4 1
+    2300340: pCube40
+    2300342: pCube40 1
+    2300344: pCube40 2
+    2300346: pCube41
+    2300348: pCube41 1
+    2300350: pCube41 2
+    2300352: pCube42
+    2300354: pCube42 1
+    2300356: pCube42 2
+    2300358: pCube43
+    2300360: pCube43 1
+    2300362: pCube43 2
+    2300364: pCube44
+    2300366: pCube44 1
+    2300368: pCube44 2
+    2300370: pCube45
+    2300372: pCube45 1
+    2300374: pCube45 2
+    2300376: pCube46
+    2300378: pCube46 1
+    2300380: pCube46 2
+    2300382: pCube47
+    2300384: pCube47 1
+    2300386: pCube47 2
+    2300388: pCube48
+    2300390: pCube48 1
+    2300392: pCube48 2
+    2300394: pCube49
+    2300396: pCube49 1
+    2300398: pCube49 2
+    2300400: pCube5
+    2300402: pCube5 1
+    2300404: pCube5 2
+    2300406: pCube5 3
+    2300408: pCube50
+    2300410: pCube50 1
+    2300412: pCube50 2
+    2300414: pCube51
+    2300416: pCube51 1
+    2300418: pCube51 2
+    2300420: pCube52
+    2300422: pCube52 1
+    2300424: pCube52 2
+    2300426: pCube53
+    2300428: pCube53 1
+    2300430: pCube53 2
+    2300432: pCube54
+    2300434: pCube54 1
+    2300436: pCube54 2
+    2300438: pCube55
+    2300440: pCube55 1
+    2300442: pCube55 2
+    2300444: pCube56
+    2300446: pCube56 1
+    2300448: pCube56 2
+    2300450: pCube57
+    2300452: pCube57 1
+    2300454: pCube57 2
+    2300456: pCube58
+    2300458: pCube58 1
+    2300460: pCube58 2
+    2300462: pCube59
+    2300464: pCube59 1
+    2300466: pCube59 2
+    2300468: pCube6
+    2300470: pCube6 1
+    2300472: pCube6 2
+    2300474: pCube6 3
+    2300476: pCube60
+    2300478: pCube60 1
+    2300480: pCube60 2
+    2300482: pCube61
+    2300484: pCube61 1
+    2300486: pCube61 2
+    2300488: pCube62
+    2300490: pCube62 1
+    2300492: pCube62 2
+    2300494: pCube63
+    2300496: pCube63 1
+    2300498: pCube63 2
+    2300500: pCube64
+    2300502: pCube64 1
+    2300504: pCube64 2
+    2300506: pCube65
+    2300508: pCube65 1
+    2300510: pCube65 2
+    2300512: pCube66
+    2300514: pCube66 1
+    2300516: pCube66 2
+    2300518: pCube67
+    2300520: pCube67 1
+    2300522: pCube67 2
+    2300524: pCube7
+    2300526: pCube7 1
+    2300528: pCube7 2
+    2300530: pCube7 3
+    2300532: pCube70
+    2300534: pCube70 1
+    2300536: pCube70 2
+    2300538: pCube71
+    2300540: pCube71 1
+    2300542: pCube71 2
+    2300544: pCube76
+    2300546: pCube77
+    2300548: pCube78
+    2300550: pCube79
+    2300552: pCube8
+    2300554: pCube8 1
+    2300556: pCube8 2
+    2300558: pCube8 3
+    2300560: pCube81
+    2300562: pCube81 1
+    2300564: pCube81 2
+    2300566: pCube82
+    2300568: pCube83
+    2300570: pCube84
+    2300572: pCube85
+    2300574: pCube86
+    2300576: pCube87
+    2300578: pCube88
+    2300580: pCube9
+    2300582: pCube9 1
+    2300584: pCube9 2
+    2300586: pCube9 3
+    2300588: PowerBase:pCube1
+    2300590: PowerBase:pCube10
+    2300592: PowerBase:pCube11
+    2300594: PowerBase:pCube12
+    2300596: PowerBase:pCube2
+    2300598: PowerBase:pCube3
+    2300600: PowerBase:pCube4
+    2300602: PowerBase:pCube5
+    2300604: PowerBase:pCube6
+    2300606: PowerBase:pCube7
+    2300608: PowerBase:pCube8
+    2300610: PowerBase:pCube9
+    2300612: PowerBase:Radar:pCube20
+    2300614: PowerBase:Radar:pCube21
+    2300616: PowerBase:Radar:pCube22
+    2300618: PowerBase:Radar:pCube23
+    2300620: PowerBase:Radar:pCube24
+    2300622: Radar:pCube20
+    2300624: Radar:pCube21
+    2300626: Radar:pCube22
+    2300628: Radar:pCube23
+    2300630: Radar:pCube24
+    2300632: SmallProp1
+    2300634: SmallProp2
+    3300000: Battery1
+    3300002: Battery10
+    3300004: Battery11
+    3300006: Battery12
+    3300008: Battery13
+    3300010: Battery14
+    3300012: Battery15
+    3300014: Battery16
+    3300016: Battery17
+    3300018: Battery18
+    3300020: Battery19
+    3300022: Battery2
+    3300024: Battery20
+    3300026: Battery21
+    3300028: Battery22
+    3300030: Battery23
+    3300032: Battery24
+    3300034: Battery3
+    3300036: Battery4
+    3300038: Battery5
+    3300040: Battery6
+    3300042: Battery7
+    3300044: Battery8
+    3300046: Battery9
+    3300048: Battery:Battery
+    3300050: Building1:pCube5
+    3300052: Building1:pCube6
+    3300054: Building1:pCube7
+    3300056: Building1:pCube8
+    3300058: Building2:pCube10
+    3300060: Building2:pCube11
+    3300062: Building2:pCube12
+    3300064: Building2:pCube13
+    3300066: Building2:pCube14
+    3300068: Building2:pCube15
+    3300070: Building2:pCube9
+    3300072: CommandCenter:pCube34
+    3300074: CommandCenter:pCube39
+    3300076: CommandCenter:pCube40
+    3300078: CommandCenter:pCube41
+    3300080: CommandCenter:pCube42
+    3300082: CommandCenter:pCube43
+    3300084: CommandCenter:pCube44
+    3300086: CommandCenter:pCube45
+    3300088: CommandCenter:pCube46
+    3300090: CommandCenter:pCube47
+    3300092: CommandCenter:pCube48
+    3300094: CommandCenter:pCube49
+    3300096: CommandCenter:pCube50
+    3300098: CommandCenter:pCube51
+    3300100: CommandCenter:pCube52
+    3300102: CommandCenter:pCube53
+    3300104: CommandCenter:pCube54
+    3300106: CommandCenter:pCube55
+    3300108: CommandCenter:pCube56
+    3300110: CommandCenter:pCube57
+    3300112: CommandCenter:pCube58
+    3300114: CommandCenter:pCube59
+    3300116: CommandCenter:pCube60
+    3300118: CommandCenter:pCube61
+    3300120: CommandCenter:pCube62
+    3300122: CommandCenter:pCube63
+    3300124: CommandCenter:pCube64
+    3300126: CommandCenter:pCube65
+    3300128: CommandCenter:pCube66
+    3300130: CommandCenter:pCube67
+    3300132: CommandCenter:pCube68
+    3300134: CommandCenter:pCube70
+    3300136: CommandCenter:pCube71
+    3300138: CommandCenter:pCylinder1
+    3300140: CommunicationCenter:pCube25
+    3300142: CommunicationCenter:pCube26
+    3300144: CommunicationCenter:pCube27
+    3300146: CommunicationCenter:pCube28
+    3300148: CommunicationCenter:pCube29
+    3300150: CommunicationCenter:pCube30
+    3300152: CommunicationCenter:pCube31
+    3300154: CommunicationCenter:pCube32
+    3300156: CommunicationCenter:pCube33
+    3300158: Ground
+    3300160: Lamp
+    3300162: LightGround
+    3300164: MainBuilding:pCube16
+    3300166: MainBuilding:pCube17
+    3300168: MainBuilding:pCube18
+    3300170: MainBuilding:pCube19
+    3300172: pCube1
+    3300174: pCube1 1
+    3300176: pCube10
+    3300178: pCube10 1
+    3300180: pCube10 2
+    3300182: pCube10 3
+    3300184: pCube11
+    3300186: pCube11 1
+    3300188: pCube11 2
+    3300190: pCube11 3
+    3300192: pCube12
+    3300194: pCube12 1
+    3300196: pCube12 2
+    3300198: pCube12 3
+    3300200: pCube13
+    3300202: pCube13 1
+    3300204: pCube14
+    3300206: pCube14 1
+    3300208: pCube15
+    3300210: pCube15 1
+    3300212: pCube16
+    3300214: pCube17
+    3300216: pCube18
+    3300218: pCube19
+    3300220: pCube2
+    3300222: pCube2 1
+    3300224: pCube20
+    3300226: pCube20 1
+    3300228: pCube20 2
+    3300230: pCube20 3
+    3300232: pCube20 4
+    3300234: pCube20 5
+    3300236: pCube21
+    3300238: pCube21 1
+    3300240: pCube21 2
+    3300242: pCube21 3
+    3300244: pCube21 4
+    3300246: pCube21 5
+    3300248: pCube22
+    3300250: pCube22 1
+    3300252: pCube22 2
+    3300254: pCube22 3
+    3300256: pCube22 4
+    3300258: pCube22 5
+    3300260: pCube23
+    3300262: pCube23 1
+    3300264: pCube23 2
+    3300266: pCube23 3
+    3300268: pCube23 4
+    3300270: pCube23 5
+    3300272: pCube24
+    3300274: pCube24 1
+    3300276: pCube24 2
+    3300278: pCube24 3
+    3300280: pCube24 4
+    3300282: pCube24 5
+    3300284: pCube25
+    3300286: pCube26
+    3300288: pCube27
+    3300290: pCube28
+    3300292: pCube29
+    3300294: pCube3
+    3300296: pCube3 1
+    3300298: pCube30
+    3300300: pCube31
+    3300302: pCube32
+    3300304: pCube33
+    3300306: pCube34
+    3300308: pCube34 1
+    3300310: pCube34 2
+    3300312: pCube35
+    3300314: pCube35 1
+    3300316: pCube35 2
+    3300318: pCube36
+    3300320: pCube36 1
+    3300322: pCube36 2
+    3300324: pCube37
+    3300326: pCube37 1
+    3300328: pCube37 2
+    3300330: pCube38
+    3300332: pCube38 1
+    3300334: pCube38 2
+    3300336: pCube4
+    3300338: pCube4 1
+    3300340: pCube40
+    3300342: pCube40 1
+    3300344: pCube40 2
+    3300346: pCube41
+    3300348: pCube41 1
+    3300350: pCube41 2
+    3300352: pCube42
+    3300354: pCube42 1
+    3300356: pCube42 2
+    3300358: pCube43
+    3300360: pCube43 1
+    3300362: pCube43 2
+    3300364: pCube44
+    3300366: pCube44 1
+    3300368: pCube44 2
+    3300370: pCube45
+    3300372: pCube45 1
+    3300374: pCube45 2
+    3300376: pCube46
+    3300378: pCube46 1
+    3300380: pCube46 2
+    3300382: pCube47
+    3300384: pCube47 1
+    3300386: pCube47 2
+    3300388: pCube48
+    3300390: pCube48 1
+    3300392: pCube48 2
+    3300394: pCube49
+    3300396: pCube49 1
+    3300398: pCube49 2
+    3300400: pCube5
+    3300402: pCube5 1
+    3300404: pCube5 2
+    3300406: pCube5 3
+    3300408: pCube50
+    3300410: pCube50 1
+    3300412: pCube50 2
+    3300414: pCube51
+    3300416: pCube51 1
+    3300418: pCube51 2
+    3300420: pCube52
+    3300422: pCube52 1
+    3300424: pCube52 2
+    3300426: pCube53
+    3300428: pCube53 1
+    3300430: pCube53 2
+    3300432: pCube54
+    3300434: pCube54 1
+    3300436: pCube54 2
+    3300438: pCube55
+    3300440: pCube55 1
+    3300442: pCube55 2
+    3300444: pCube56
+    3300446: pCube56 1
+    3300448: pCube56 2
+    3300450: pCube57
+    3300452: pCube57 1
+    3300454: pCube57 2
+    3300456: pCube58
+    3300458: pCube58 1
+    3300460: pCube58 2
+    3300462: pCube59
+    3300464: pCube59 1
+    3300466: pCube59 2
+    3300468: pCube6
+    3300470: pCube6 1
+    3300472: pCube6 2
+    3300474: pCube6 3
+    3300476: pCube60
+    3300478: pCube60 1
+    3300480: pCube60 2
+    3300482: pCube61
+    3300484: pCube61 1
+    3300486: pCube61 2
+    3300488: pCube62
+    3300490: pCube62 1
+    3300492: pCube62 2
+    3300494: pCube63
+    3300496: pCube63 1
+    3300498: pCube63 2
+    3300500: pCube64
+    3300502: pCube64 1
+    3300504: pCube64 2
+    3300506: pCube65
+    3300508: pCube65 1
+    3300510: pCube65 2
+    3300512: pCube66
+    3300514: pCube66 1
+    3300516: pCube66 2
+    3300518: pCube67
+    3300520: pCube67 1
+    3300522: pCube67 2
+    3300524: pCube7
+    3300526: pCube7 1
+    3300528: pCube7 2
+    3300530: pCube7 3
+    3300532: pCube70
+    3300534: pCube70 1
+    3300536: pCube70 2
+    3300538: pCube71
+    3300540: pCube71 1
+    3300542: pCube71 2
+    3300544: pCube76
+    3300546: pCube77
+    3300548: pCube78
+    3300550: pCube79
+    3300552: pCube8
+    3300554: pCube8 1
+    3300556: pCube8 2
+    3300558: pCube8 3
+    3300560: pCube81
+    3300562: pCube81 1
+    3300564: pCube81 2
+    3300566: pCube82
+    3300568: pCube83
+    3300570: pCube84
+    3300572: pCube85
+    3300574: pCube86
+    3300576: pCube87
+    3300578: pCube88
+    3300580: pCube9
+    3300582: pCube9 1
+    3300584: pCube9 2
+    3300586: pCube9 3
+    3300588: PowerBase:pCube1
+    3300590: PowerBase:pCube10
+    3300592: PowerBase:pCube11
+    3300594: PowerBase:pCube12
+    3300596: PowerBase:pCube2
+    3300598: PowerBase:pCube3
+    3300600: PowerBase:pCube4
+    3300602: PowerBase:pCube5
+    3300604: PowerBase:pCube6
+    3300606: PowerBase:pCube7
+    3300608: PowerBase:pCube8
+    3300610: PowerBase:pCube9
+    3300612: PowerBase:Radar:pCube20
+    3300614: PowerBase:Radar:pCube21
+    3300616: PowerBase:Radar:pCube22
+    3300618: PowerBase:Radar:pCube23
+    3300620: PowerBase:Radar:pCube24
+    3300622: Radar:pCube20
+    3300624: Radar:pCube21
+    3300626: Radar:pCube22
+    3300628: Radar:pCube23
+    3300630: Radar:pCube24
+    3300632: SmallProp1
+    3300634: SmallProp2
+    4300000: Ground
+    4300002: LightGround
+    4300004: SmallProp1
+    4300006: CommandCenter:pCube34
+    4300008: CommandCenter:pCube39
+    4300010: CommandCenter:pCube40
+    4300012: CommandCenter:pCube41
+    4300014: CommandCenter:pCube42
+    4300016: CommandCenter:pCube43
+    4300018: CommandCenter:pCube44
+    4300020: CommandCenter:pCube45
+    4300022: CommandCenter:pCube46
+    4300024: CommandCenter:pCube47
+    4300026: CommandCenter:pCube48
+    4300028: CommandCenter:pCube49
+    4300030: CommandCenter:pCube50
+    4300032: CommandCenter:pCube51
+    4300034: CommandCenter:pCube52
+    4300036: CommandCenter:pCube53
+    4300038: CommandCenter:pCube54
+    4300040: CommandCenter:pCube55
+    4300042: CommandCenter:pCube56
+    4300044: CommandCenter:pCube57
+    4300046: CommandCenter:pCube58
+    4300048: CommandCenter:pCube59
+    4300050: CommandCenter:pCube60
+    4300052: CommandCenter:pCube61
+    4300054: CommandCenter:pCube62
+    4300056: CommandCenter:pCube63
+    4300058: CommandCenter:pCube64
+    4300060: CommandCenter:pCube65
+    4300062: CommandCenter:pCube66
+    4300064: CommandCenter:pCube67
+    4300066: CommandCenter:pCube68
+    4300068: CommandCenter:pCube70
+    4300070: CommandCenter:pCube71
+    4300072: CommandCenter:pCylinder1
+    4300074: Lamp
+    4300076: Battery2
+    4300078: Battery3
+    4300080: pCube82
+    4300082: Battery4
+    4300084: Battery5
+    4300086: Battery6
+    4300088: Battery7
+    4300090: Battery8
+    4300092: Battery10
+    4300094: Battery9
+    4300096: Battery11
+    4300098: Battery12
+    4300100: Battery13
+    4300102: Battery14
+    4300104: Battery15
+    4300106: Battery16
+    4300108: Battery17
+    4300110: Battery19
+    4300112: Battery18
+    4300114: Battery20
+    4300116: Battery21
+    4300118: Battery22
+    4300120: Battery1
+    4300122: Battery:Battery
+    4300124: Battery23
+    4300126: Battery24
+    4300128: PowerBase:pCube1
+    4300130: PowerBase:pCube2
+    4300132: PowerBase:pCube3
+    4300134: PowerBase:pCube4
+    4300136: PowerBase:pCube5
+    4300138: PowerBase:pCube6
+    4300140: PowerBase:pCube7
+    4300142: PowerBase:pCube8
+    4300144: PowerBase:pCube9
+    4300146: PowerBase:pCube10
+    4300148: PowerBase:Radar:pCube20
+    4300150: PowerBase:Radar:pCube21
+    4300152: PowerBase:Radar:pCube22
+    4300154: PowerBase:Radar:pCube23
+    4300156: PowerBase:Radar:pCube24
+    4300158: PowerBase:pCube11
+    4300160: PowerBase:pCube12
+    4300162: pCube1
+    4300164: pCube2
+    4300166: pCube3
+    4300168: pCube4
+    4300170: pCube5
+    4300172: pCube6
+    4300174: pCube7
+    4300176: pCube8
+    4300178: pCube9
+    4300180: pCube10
+    4300182: pCube20
+    4300184: pCube21
+    4300186: pCube22
+    4300188: pCube23
+    4300190: pCube24
+    4300192: pCube11
+    4300194: pCube12
+    4300196: pCube1
+    4300198: pCube2
+    4300200: pCube3
+    4300202: pCube4
+    4300204: pCube5
+    4300206: pCube6
+    4300208: pCube7
+    4300210: pCube8
+    4300212: pCube9
+    4300214: pCube10
+    4300216: pCube20
+    4300218: pCube21
+    4300220: pCube22
+    4300222: pCube23
+    4300224: pCube24
+    4300226: pCube11
+    4300228: pCube12
+    4300230: Radar:pCube20
+    4300232: Radar:pCube21
+    4300234: Radar:pCube22
+    4300236: Radar:pCube23
+    4300238: Radar:pCube24
+    4300240: pCube20
+    4300242: pCube21
+    4300244: pCube22
+    4300246: pCube23
+    4300248: pCube24
+    4300250: pCube20
+    4300252: pCube21
+    4300254: pCube22
+    4300256: pCube23
+    4300258: pCube24
+    4300260: pCube20
+    4300262: pCube21
+    4300264: pCube22
+    4300266: pCube23
+    4300268: pCube24
+    4300270: pCube20
+    4300272: pCube21
+    4300274: pCube22
+    4300276: pCube23
+    4300278: pCube24
+    4300280: pCube76
+    4300282: pCube77
+    4300284: pCube78
+    4300286: pCube83
+    4300288: pCube84
+    4300290: pCube86
+    4300292: pCube85
+    4300294: pCube87
+    4300296: pCube88
+    4300298: Building1:pCube5
+    4300300: Building1:pCube6
+    4300302: Building1:pCube7
+    4300304: Building1:pCube8
+    4300306: pCube19
+    4300308: Building2:pCube9
+    4300310: Building2:pCube10
+    4300312: Building2:pCube11
+    4300314: Building2:pCube12
+    4300316: Building2:pCube13
+    4300318: Building2:pCube14
+    4300320: Building2:pCube15
+    4300322: pCube9
+    4300324: pCube10
+    4300326: pCube11
+    4300328: pCube12
+    4300330: pCube13
+    4300332: pCube14
+    4300334: pCube15
+    4300336: pCube5
+    4300338: pCube6
+    4300340: pCube7
+    4300342: pCube8
+    4300344: pCube5
+    4300346: pCube6
+    4300348: pCube7
+    4300350: pCube8
+    4300352: pCube9
+    4300354: pCube10
+    4300356: pCube11
+    4300358: pCube12
+    4300360: pCube13
+    4300362: pCube14
+    4300364: pCube15
+    4300366: MainBuilding:pCube16
+    4300368: MainBuilding:pCube17
+    4300370: MainBuilding:pCube18
+    4300372: MainBuilding:pCube19
+    4300374: pCube17
+    4300376: pCube18
+    4300378: pCube16
+    4300380: pCube79
+    4300382: CommunicationCenter:pCube25
+    4300384: CommunicationCenter:pCube26
+    4300386: CommunicationCenter:pCube27
+    4300388: CommunicationCenter:pCube28
+    4300390: CommunicationCenter:pCube29
+    4300392: CommunicationCenter:pCube30
+    4300394: CommunicationCenter:pCube31
+    4300396: CommunicationCenter:pCube32
+    4300398: CommunicationCenter:pCube33
+    4300400: pCube25
+    4300402: pCube26
+    4300404: pCube27
+    4300406: pCube28
+    4300408: pCube29
+    4300410: pCube30
+    4300412: pCube31
+    4300414: pCube32
+    4300416: pCube33
+    4300418: SmallProp2
+    4300420: pCube34
+    4300422: pCube35
+    4300424: pCube36
+    4300426: pCube37
+    4300428: pCube38
+    4300430: pCube40
+    4300432: pCube41
+    4300434: pCube42
+    4300436: pCube43
+    4300438: pCube44
+    4300440: pCube45
+    4300442: pCube46
+    4300444: pCube47
+    4300446: pCube48
+    4300448: pCube49
+    4300450: pCube50
+    4300452: pCube51
+    4300454: pCube52
+    4300456: pCube53
+    4300458: pCube54
+    4300460: pCube55
+    4300462: pCube56
+    4300464: pCube57
+    4300466: pCube58
+    4300468: pCube59
+    4300470: pCube60
+    4300472: pCube61
+    4300474: pCube62
+    4300476: pCube63
+    4300478: pCube64
+    4300480: pCube65
+    4300482: pCube66
+    4300484: pCube67
+    4300486: pCube70
+    4300488: pCube71
+    4300490: pCube81
+    4300492: pCube34
+    4300494: pCube35
+    4300496: pCube36
+    4300498: pCube37
+    4300500: pCube38
+    4300502: pCube40
+    4300504: pCube41
+    4300506: pCube42
+    4300508: pCube43
+    4300510: pCube44
+    4300512: pCube45
+    4300514: pCube46
+    4300516: pCube47
+    4300518: pCube48
+    4300520: pCube49
+    4300522: pCube50
+    4300524: pCube51
+    4300526: pCube52
+    4300528: pCube53
+    4300530: pCube54
+    4300532: pCube55
+    4300534: pCube56
+    4300536: pCube57
+    4300538: pCube58
+    4300540: pCube59
+    4300542: pCube60
+    4300544: pCube61
+    4300546: pCube62
+    4300548: pCube63
+    4300550: pCube64
+    4300552: pCube65
+    4300554: pCube66
+    4300556: pCube67
+    4300558: pCube70
+    4300560: pCube71
+    4300562: pCube81
+    4300564: pCube34
+    4300566: pCube35
+    4300568: pCube36
+    4300570: pCube37
+    4300572: pCube38
+    4300574: pCube40
+    4300576: pCube41
+    4300578: pCube42
+    4300580: pCube43
+    4300582: pCube44
+    4300584: pCube45
+    4300586: pCube46
+    4300588: pCube47
+    4300590: pCube48
+    4300592: pCube49
+    4300594: pCube50
+    4300596: pCube51
+    4300598: pCube52
+    4300600: pCube53
+    4300602: pCube54
+    4300604: pCube55
+    4300606: pCube56
+    4300608: pCube57
+    4300610: pCube58
+    4300612: pCube59
+    4300614: pCube60
+    4300616: pCube61
+    4300618: pCube62
+    4300620: pCube63
+    4300622: pCube64
+    4300624: pCube65
+    4300626: pCube66
+    4300628: pCube67
+    4300630: pCube70
+    4300632: pCube71
+    4300634: pCube81
+    10800000: ambientLight1
+    10800002: directionalLight1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

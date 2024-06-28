@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: e8b720d2d129be043a9fb38e2a6a7de2
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Superspace Bold
+  fontNames:
+  - Superspace Bold
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: adfc63c32bbe79c42b5dffd1bfac4015, type: 3}
+  - {fileID: 12800000, guid: 1f3648f4571996b439db91c6d11c0b21, type: 3}
+  - {fileID: 12800000, guid: c18634fdbaa4d0f469a870221e61adea, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
